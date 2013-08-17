@@ -1,3 +1,7 @@
+####This is a frok from the original repo of [flavienlaurent/datetimepicker][5]###
+
+----
+
 DateTimePicker  
 ==================
 
@@ -10,6 +14,7 @@ Are missing :
 
 * Accessibility
 * Scroll adjustment
+* Theming (work in progress)
 
 Description
 -------------------------
@@ -30,7 +35,8 @@ Just add the library to your application as a library project.
 Usage
 ---------
 
-Using the library is simple, just look at the source code of the provided sample [here][4]
+* Using the library is simple, just look at the source code of the provided sample [here][4]
+* Woks form Android 2.1+ (Thanks to [MiguelCatalan][6])
 
 
 Acknowledgements
@@ -58,7 +64,9 @@ License
 	
 	
 
- [1]: https://raw.github.com/biboune/datetimepicker/master/graphics/img1.png
- [2]: https://raw.github.com/biboune/datetimepicker/master/datetimepicker-sample.apk
- [3]: https://github.com/biboune/datetimepicker/tree/master/datetimepicker-sample
- [4]: https://github.com/biboune/datetimepicker/blob/master/datetimepicker-sample/src/com/fourmob/datetimepicker/sample/MainActivity.java
+ [1]: https://raw.github.com/MiguelCatalan/datetimepicker/master/graphics/img1.png
+ [2]: https://raw.github.com/MiguelCatalan/datetimepicker/master/datetimepicker-sample.apk
+ [3]: https://github.com/MiguelCatalan/datetimepicker/tree/master/datetimepicker-sample
+ [4]: https://github.com/MiguelCatalan/datetimepicker/blob/master/datetimepicker-sample/src/com/fourmob/datetimepicker/sample/MainActivity.java
+ [5]: https://github.com/flavienlaurent/datetimepicker
+ [6]: https://github.com/MiguelCatalan
